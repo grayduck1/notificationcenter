@@ -1,5 +1,5 @@
 # Notification Center
-Notification Center for TwisterOS: OSX style notification center.
+Notification Center for Twister OS: OSX style notification center.
 
 ![NotificationCenter Screenshot](data/screenshot.png?raw=true)
 
